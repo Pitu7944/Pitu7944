@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pitu7944" alt="pitu7944" /></a> </p>
 
-- 🔭 I’m currently working on [pitu_multiJob](https://github.com/Pitu7944/pitu_multiJob)
-
-- 🌱 I’m currently learning **Javascript**
+- 🔭 I’m currently working on multiple external & dma projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pitu7944](https://github.com/Pitu7944)
-
-- 💬 Ask me about **Python, FivemLua**
 
 - 📫 How to reach me **Pitu7944#2711 on Discord!**
 
